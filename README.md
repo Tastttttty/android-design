@@ -1,6 +1,6 @@
 # BookManager
 这是一个android 图书管理系统
-拂晓图书说明文档
+
 
 
 目录结构
@@ -85,4 +85,4 @@ String username=perf.getString("users","");//获得当前用户名称
 点击还书，将借阅表中的数据删除，往还书表中添加记录pay
 payActivity.class
 
-在后台管理员中查询数据，
+
